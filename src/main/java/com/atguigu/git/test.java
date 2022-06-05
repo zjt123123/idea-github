@@ -10,5 +10,7 @@ public class test {
         System.out.println("新建文件");
         System.out.println("新建文件123");
         System.out.println("dev新建文件");
+
+        System.out.println("dev合并文件");
     }
 }
